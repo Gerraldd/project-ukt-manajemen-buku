@@ -52,3 +52,24 @@ Aplikasi Android ini dibuat menggunakan **Kotlin** dan berfungsi sebagai sistem 
 ```
 
 ## 📷 Screenshot
+
+### 🖼️ Halaman Register
+![Register Screen](images/halaman_register.jpg)
+
+### 🖼️ Halaman login
+![Login Screen](images/halaman_login.jpg)
+
+### 🖼️ Halaman Utama
+![Main Screen](images/halaman_utama.jpg)
+
+### 📚 Daftar Buku
+![Book List](images/halaman_data_buku.jpg)
+
+### 🔍 Detail Buku
+![Detail Buku](images/halaman_informasi_buku.jpg)
+
+### ➕ Tambah Buku
+![Tambah Buku](images/halaman_tambah_buku.jpg)
+
+### 🖋️ Edit Buku
+![Edit Buku](images/halaman_edit_buku.jpg)
