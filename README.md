@@ -83,3 +83,10 @@ Aplikasi Android ini dibuat menggunakan **Kotlin** dan berfungsi sebagai sistem 
   </tr>
 </table>
 </div>
+
+## ✍️ Author
+
+**Nama :** Muhammad Geral Herpavy<br>
+**Username :** Gerraldd<br>
+
+---
