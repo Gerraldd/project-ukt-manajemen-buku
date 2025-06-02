@@ -52,7 +52,8 @@ Aplikasi Android ini dibuat menggunakan **Kotlin** dan berfungsi sebagai sistem 
 ```
 
 ## 📷 Screenshot
-
+<div align="center">
+ 
 <table border="0">
   <tr>
     <th>✅ Halaman Register</th>
@@ -81,3 +82,4 @@ Aplikasi Android ini dibuat menggunakan **Kotlin** dan berfungsi sebagai sistem 
     <td><img src="images/halaman_edit_buku.jpg" width="300"/></td>
   </tr>
 </table>
+</div>
