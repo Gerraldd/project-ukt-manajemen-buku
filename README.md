@@ -53,23 +53,31 @@ Aplikasi Android ini dibuat menggunakan **Kotlin** dan berfungsi sebagai sistem 
 
 ## 📷 Screenshot
 
-### 🖼️ Halaman Register
-<img src="images/halaman_register.jpg" width="200"/>
-
-### 🖼️ Halaman login
-<img src="images/halaman_login.jpg" width="200"/>
-
-### 🖼️ Halaman Utama
-<img src="images/halaman_utama.jpg" width="200"/>
-
-### 📚 Daftar Buku
-<img src="images/halaman_data_buku.jpg" width="200"/>
-
-### 🔍 Detail Buku
-<img src="images/halaman_informasi_buku.jpg" width="200"/>
-
-### ➕ Tambah Buku
-<img src="images/halaman_tambah_buku.jpg" width="200"/>
-
-### 🖋️ Edit Buku
-<img src="images/halaman_edit_buku.jpg" width="200"/>
+<table>
+  <tr>
+    <th>✅ Halaman Register</th>
+    <th>✅ Halaman Login</th>
+    <th>✅ Halaman Utama</th>
+  </tr>
+  <tr>
+    <td><img src="images/halaman_register.jpg" width="250"/></td>
+    <td><img src="images/halaman_login.jpg" width="250"/></td>
+    <td><img src="images/halaman_utama.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <th>📚 Daftar Buku</th>
+    <th>🔍 Detail Buku</th>
+    <th>➕ Tambah Buku</th>
+  </tr>
+  <tr>
+    <td><img src="images/halaman_data_buku.jpg" width="250"/></td>
+   <td><img src="images/halaman_informasi_buku.jpg" width="250"/></td>
+   <td><img src="images/halaman_tambah_buku.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <th>🖋️ Edit Buku</th>
+  </tr>
+  <tr>
+    <td><img src="images/halaman_edit_buku.jpg" width="250"/></td>
+  </tr>
+</table>
