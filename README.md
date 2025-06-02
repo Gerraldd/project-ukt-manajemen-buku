@@ -54,7 +54,7 @@ Aplikasi Android ini dibuat menggunakan **Kotlin** dan berfungsi sebagai sistem 
 ## 📷 Screenshot
 
 ### 🖼️ Halaman Register
-![Register Screen](images/halaman_register.jpg)
+![Register Screen](<img src="images/halaman_register" width="300"/>)
 
 ### 🖼️ Halaman login
 ![Login Screen](images/halaman_login.jpg)
